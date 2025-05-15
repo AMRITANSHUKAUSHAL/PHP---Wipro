@@ -1,0 +1,15 @@
+.footer{
+    background-color: black;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footerLinks{
+    margin: 20px 0;
+}
+.footerLinks a{
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
